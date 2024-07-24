@@ -70,3 +70,7 @@ const atualizar = () => {
         console.log("indice invalido")
     }
 };
+
+const remover = () => {
+    
+}
