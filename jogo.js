@@ -84,3 +84,10 @@ const remover = () => {
         console.log("falha na remoção");
     }
 };
+
+module.exports = {
+    criar,
+    atualizar,
+    listar,
+    remover,
+}
